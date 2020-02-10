@@ -1,4 +1,4 @@
-# C-algorithms-for-trading-on-cTrader
+# C#-algorithms-for-trading-on-cTrader
 
 ctrader.com  
 
