@@ -1,2 +1,5 @@
 # C-algorithms-for-trading-on-cTrader
-ctrader.com
+
+ctrader.com  
+
+Sample basic algorithms of indicators and trading robots.
